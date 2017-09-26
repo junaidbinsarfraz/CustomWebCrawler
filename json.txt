@@ -1,0 +1,641 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Java Programmer",
+    "totalResults": "3490000",
+    "searchTerms": "Java Programmer",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "005621018181405156379:yvdukowvdte"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Java Programmer",
+    "totalResults": "3490000",
+    "searchTerms": "Java Programmer",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "005621018181405156379:yvdukowvdte"
+   }
+  ]
+ },
+ "context": {
+  "title": "MySearchEngine"
+ },
+ "searchInformation": {
+  "searchTime": 0.415689,
+  "formattedSearchTime": "0.42",
+  "totalResults": "3490000",
+  "formattedTotalResults": "3,490,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Java Programmer Jobs, Employment | Indeed.com",
+   "htmlTitle": "\u003cb\u003eJava Programmer\u003c/b\u003e Jobs, Employment | Indeed.com",
+   "link": "https://www.indeed.com/q-Java-Programmer-jobs.html",
+   "displayLink": "www.indeed.com",
+   "snippet": "Jobs 1 - 10 of 2700 ... 2700 Java Programmer Jobs available on Indeed.com. one search. all jobs.",
+   "htmlSnippet": "Jobs 1 - 10 of 2700 \u003cb\u003e...\u003c/b\u003e 2700 \u003cb\u003eJava Programmer\u003c/b\u003e Jobs available on Indeed.com. one search. all jobs.",
+   "cacheId": "ewIlxQuWINgJ",
+   "formattedUrl": "https://www.indeed.com/q-Java-Programmer-jobs.html",
+   "htmlFormattedUrl": "https://www.indeed.com/q-\u003cb\u003eJava\u003c/b\u003e-\u003cb\u003eProgrammer\u003c/b\u003e-jobs.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "314",
+      "height": "160",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ5JcA9YkNME_7yJpeN7gceEEHGj0jr6W_fGEnimhD_xaFIxt-JTn8Zm8"
+     }
+    ],
+    "jobposting": [
+     {
+      "title": "Entry Level Java Programmer",
+      "hiringorganization": "Smartwerks, Inc.",
+      "name": "Smartwerks, Inc.",
+      "description": "Entry level programmer needed for a Java based business application.*. Work experience in Java and SQL:. A minimum of 1 year work experience in Java is required..."
+     },
+     {
+      "title": "Entry level Software Engineer -Java",
+      "hiringorganization": "Summit Works Technologies Inc.",
+      "name": "Summit Works Technologies Inc.",
+      "description": "Entry level Java developer / entry level developer /Java programmer / juniorJava developer / entry level Java developer /Java developer /Java entry level..."
+     },
+     {
+      "title": "Java/J2EE Developer",
+      "hiringorganization": "NITYO INFOTECH",
+      "name": "NITYO INFOTECH",
+      "description": "5-7 years of solid hands-on Java full stack programmer. Experience with building applications using Angular JS and HTML5 Experienced with Java App Development..."
+     },
+     {
+      "title": "Entry Level Java Programmer Job",
+      "hiringorganization": "SAIC",
+      "name": "SAIC",
+      "description": "Entry Level Java Programmer (Job Number:. Oracle Certified Associate Java 1.8 or Oracle Certified Professional Java 1.8...."
+     },
+     {
+      "title": "Java/J2EE Developer",
+      "hiringorganization": "HCL Global Systems Inc",
+      "name": "HCL Global Systems Inc",
+      "description": "Experience must include work with Java, J2EE, EJB, Websphere, and Oracle; Create internet/intranet functionality using Java, J2EE, EJB, JDBC, JSP, Servlets,..."
+     },
+     {
+      "title": "Computer Programmer",
+      "hiringorganization": "Treez",
+      "name": "Treez",
+      "description": "REQUIRED SKILLS Bachelor’s degree in Computer Science or a related field Languages Java, SQL, PHP, JavaScript Java Technologies JDK1.8, J2EE, EJB, Spring..."
+     },
+     {
+      "title": "Java Developer/Web Developer Intern",
+      "hiringorganization": "UVFAB Systems, Inc.",
+      "name": "UVFAB Systems, Inc.",
+      "description": "Looking for 2-3 good programmer/developers to help create a lighting tool kit or web app. This is a 3-month internship position. Flexible schedule but need to"
+     },
+     {
+      "title": "Entry Level Developer",
+      "hiringorganization": "Adage Technologies",
+      "name": "Adage Technologies",
+      "description": "Has a strong command of either C#, Java, C++ or another C-based programming language. Adage Technologies is a web design and development firm in downtown..."
+     },
+     {
+      "title": "Senior Java Developer",
+      "hiringorganization": "RL Price Search",
+      "name": "RL Price Search",
+      "description": "Knowledge of Java, Python, or other programming languages. Proficient in Java and knowledge of other programming languages...."
+     },
+     {
+      "title": "Entry Level Software Position - JAVA",
+      "hiringorganization": "SummitWorks Technologies Inc.",
+      "name": "SummitWorks Technologies Inc.",
+      "description": "While on a Project you will be working as a JAVA programmer or Programmer Analyst or a mid-level programmer or Junior JAVA programmer...."
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Clearwater, FL"
+     },
+     {
+      "addresslocality": "South Plainfield, NJ 07080"
+     },
+     {
+      "addresslocality": "Brooklyn, NY"
+     },
+     {
+      "addresslocality": "Cookeville, TN"
+     },
+     {
+      "addresslocality": "Farmington Hills, MI"
+     },
+     {
+      "addresslocality": "Fremont, CA"
+     },
+     {
+      "addresslocality": "Walnut Creek, CA"
+     },
+     {
+      "addresslocality": "Chicago, IL 60661 (Near West Side area)"
+     },
+     {
+      "addresslocality": "Reston, VA"
+     },
+     {
+      "addresslocality": "South Plainfield, NJ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d2q79iu7y748jz.cloudfront.net/s/_logo/a63e05a13577f8a133006da3ecafd4fb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Become a Java Programmer - Learning Path",
+   "htmlTitle": "Become a \u003cb\u003eJava Programmer\u003c/b\u003e - Learning Path",
+   "link": "https://www.lynda.com/learning-paths/Developer/become-a-java-programmer",
+   "displayLink": "www.lynda.com",
+   "snippet": "Java is the core language for Android and many enterprise web applications. \nBegin your path toward becoming a professional developer by building a solid ...",
+   "htmlSnippet": "\u003cb\u003eJava\u003c/b\u003e is the core language for Android and many enterprise web applications. \u003cbr\u003e\nBegin your path toward becoming a professional developer by building a solid&nbsp;...",
+   "cacheId": "qh459y56F2oJ",
+   "formattedUrl": "https://www.lynda.com/learning-paths/.../become-a-java-programmer",
+   "htmlFormattedUrl": "https://www.lynda.com/learning-paths/.../become-a-\u003cb\u003ejava\u003c/b\u003e-\u003cb\u003eprogrammer\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzcMBbPxJfOjp3TtBsI23b58Wm13k7iMWTFSEQosYCZpBQLlwCrDYC2tlr"
+     }
+    ],
+    "organization": [
+     {
+      "url": "https://www.lynda.com/",
+      "sameas": "Follow us on Twitter"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Lynda.com - from LinkedIn",
+      "og:title": "Become a Java Programmer - Learning Path",
+      "og:description": "Java is the core language for Android and many enterprise web applications. Begin your path toward becoming a professional developer by building a solid foundation in the Java language.",
+      "og:url": "https://www.lynda.com/learning-paths/Developer/become-a-java-programmer",
+      "fb:app_id": "585378088241725",
+      "og:type": "website",
+      "og:locale": "en_US",
+      "og:image": "/static/landing/images/thumbnail/Java_Programmer_480x270-1503434035743.jpg",
+      "og:image:width": "480",
+      "og:image:height": "270",
+      "twitter:card": "app",
+      "twitter:site": "@lynda",
+      "twitter:title": "Become a Java Programmer - Learning Path",
+      "twitter:description": "Download the Lynda.com app to enjoy on-the-go learning.",
+      "twitter:image": "https://cdn.lynda.com/static/images/lynda-logo-300.png",
+      "twitter:app:name:iphone": "Lynda.com",
+      "twitter:app:id:iphone": "356169777",
+      "twitter:app:name:ipad": "Lynda.com",
+      "twitter:app:id:ipad": "356169777",
+      "twitter:app:name:googleplay": "Lynda.com",
+      "twitter:app:id:googleplay": "com.lynda.android.root",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "apple-itunes-app": "app-id=356169777, affiliate-data=",
+      "google-play-app": "app-id=com.lynda.android.root",
+      "msapplication-id": "lynda.com.lynda.com",
+      "msapplication-packagefamilyname": "lynda.com.lynda.com_0dmhem0sv94sr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.lynda.com/courses/184457-636223296457802374_270x480_thumb.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Java (programming language) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eJava\u003c/b\u003e (\u003cb\u003eprogramming\u003c/b\u003e language) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Java is a general-purpose computer programming language that is concurrent, \nclass-based, object-oriented, and specifically designed to have as few ...",
+   "htmlSnippet": "\u003cb\u003eJava\u003c/b\u003e is a general-purpose computer \u003cb\u003eprogramming\u003c/b\u003e language that is concurrent, \u003cbr\u003e\nclass-based, object-oriented, and specifically designed to have as few&nbsp;...",
+   "cacheId": "ty8cA0ylPEMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eJava\u003c/b\u003e_(\u003cb\u003eprogramming\u003c/b\u003e_language)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "166",
+      "height": "304",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbRZF30OrhzOen_a07R0LSyPK6Iuaxssaq7AzbU8-BJqHJT2GkG4wCjk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Java Programming and Software Engineering Fundamentals ...",
+   "htmlTitle": "\u003cb\u003eJava Programming\u003c/b\u003e and Software Engineering Fundamentals ...",
+   "link": "https://www.coursera.org/specializations/java-programming",
+   "displayLink": "www.coursera.org",
+   "snippet": "Java Programming and Software Engineering Fundamentals from Duke \nUniversity. Take your first step towards a career in software development with this\n ...",
+   "htmlSnippet": "\u003cb\u003eJava Programming\u003c/b\u003e and Software Engineering Fundamentals from Duke \u003cbr\u003e\nUniversity. Take your first step towards a career in software development with this\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "VQ_1ahixoYwJ",
+   "formattedUrl": "https://www.coursera.org/specializations/java-programming",
+   "htmlFormattedUrl": "https://www.coursera.org/specializations/\u003cb\u003ejava\u003c/b\u003e-\u003cb\u003eprogramming\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ26ZbQVqzbkmCq8m1IAR4w6oSyblRZNSd70TdAE3qEwMZzgKbDJ8zsYLKC"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Coursera",
+      "fb:admins": "727836538,4807654",
+      "fb:app_id": "823425307723964",
+      "twitter:site": "Coursera",
+      "twitter:app:name:iphone": "Coursera",
+      "twitter:app:name:ipad": "Coursera",
+      "twitter:app:name:googleplay": "Coursera",
+      "twitter:app:id:iphone": "id736535961",
+      "twitter:app:id:ipad": "id736535961",
+      "twitter:app:id:googleplay": "org.coursera.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tilecolor": "#2d89ef",
+      "msapplication-tileimage": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/mstile-144x144.png",
+      "theme-color": "#4689c6",
+      "qc:admins": "366737676376375235216727",
+      "og:url": "https://www.coursera.org/specializations/java-programming",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "image": "https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/header_images_2/Duke_JavaProgrammingIntrotoSoftware_CM195522-2.jpg",
+      "og:title": "Java Programming and Software Engineering Fundamentals | Coursera",
+      "og:description": "Java Programming and Software Engineering Fundamentals from Duke University. Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the ...",
+      "og:image": "https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/header_images_2/Duke_JavaProgrammingIntrotoSoftware_CM195522-2.jpg",
+      "twitter:title": "Java Programming and Software Engineering Fundamentals | Coursera",
+      "twitter:description": "Java Programming and Software Engineering Fundamentals ...",
+      "twitter:image:src": "https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/header_images_2/Duke_JavaProgrammingIntrotoSoftware_CM195522-2.jpg",
+      "twitter:card": "summary"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/header_images_2/Duke_JavaProgrammingIntrotoSoftware_CM195522-2.jpg?auto=format%2Ccompress&dpr=2&fit=crop&w=160&h=160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Java Programming - YouTube",
+   "htmlTitle": "\u003cb\u003eJava Programming\u003c/b\u003e - YouTube",
+   "link": "https://www.youtube.com/watch?v=WPvGqX-TXP0",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jun 3, 2014 ... Cheat Sheet is Here : http://goo.gl/OPMjte Slower Java Tutorial : http://goo.gl/\nUHdlyP How to Install Java & Eclipse : http://goo.gl/vEEEJE Best ...",
+   "htmlSnippet": "Jun 3, 2014 \u003cb\u003e...\u003c/b\u003e Cheat Sheet is Here : http://goo.gl/OPMjte Slower \u003cb\u003eJava\u003c/b\u003e Tutorial : http://goo.gl/\u003cbr\u003e\nUHdlyP How to Install \u003cb\u003eJava\u003c/b\u003e &amp; Eclipse : http://goo.gl/vEEEJE Best&nbsp;...",
+   "cacheId": "s13eG408G_YJ",
+   "formattedUrl": "https://www.youtube.com/watch?v=WPvGqX-TXP0",
+   "htmlFormattedUrl": "https://www.youtube.com/watch?v=WPvGqX-TXP0",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrrZipLv7t2vVhiTYWe9Ppytj4wgPdfAa-RrNvnSlLCwxDiA-p_4_MTfeF"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://i.ytimg.com/vi/WPvGqX-TXP0/hqdefault.jpg",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/derekbanas"
+     },
+     {
+      "url": "https://plus.google.com/109941374847414893398"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Java Programming",
+      "theme-color": "#ff0000",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/watch?v=WPvGqX-TXP0",
+      "og:title": "Java Programming",
+      "og:image": "https://i.ytimg.com/vi/WPvGqX-TXP0/hqdefault.jpg",
+      "og:description": "Cheat Sheet is Here : http://goo.gl/OPMjte Slower Java Tutorial : http://goo.gl/UHdlyP How to Install Java & Eclipse : http://goo.gl/vEEEJE Best Java Book : ...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=WPvGqX-TXP0&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=WPvGqX-TXP0&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/watch?v=WPvGqX-TXP0&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/WPvGqX-TXP0",
+      "og:video:secure_url": "https://www.youtube.com/embed/WPvGqX-TXP0",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "Java programming Tutorial",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/watch?v=WPvGqX-TXP0",
+      "twitter:title": "Java Programming",
+      "twitter:description": "Cheat Sheet is Here : http://goo.gl/OPMjte Slower Java Tutorial : http://goo.gl/UHdlyP How to Install Java & Eclipse : http://goo.gl/vEEEJE Best Java Book : ...",
+      "twitter:image": "https://i.ytimg.com/vi/WPvGqX-TXP0/hqdefault.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=WPvGqX-TXP0&feature=applinks",
+      "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=WPvGqX-TXP0&feature=applinks",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=WPvGqX-TXP0",
+      "twitter:player": "https://www.youtube.com/embed/WPvGqX-TXP0",
+      "twitter:player:width": "1280"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.youtube.com/watch?v=WPvGqX-TXP0",
+      "name": "Java Programming",
+      "description": "Cheat Sheet is Here : http://goo.gl/OPMjte Slower Java Tutorial : http://goo.gl/UHdlyP How to Install Java & Eclipse : http://goo.gl/vEEEJE Best Java Book : ...",
+      "paid": "False",
+      "channelid": "UCwRXb5dUK4cvsHbx-rGzSgw",
+      "videoid": "WPvGqX-TXP0",
+      "duration": "PT34M30S",
+      "unlisted": "False",
+      "thumbnailurl": "https://i.ytimg.com/vi/WPvGqX-TXP0/hqdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/WPvGqX-TXP0",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "2859536",
+      "datepublished": "2014-06-03",
+      "genre": "Education"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/WPvGqX-TXP0/hqdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Java Programmer Jobs | Glassdoor",
+   "htmlTitle": "\u003cb\u003eJava Programmer\u003c/b\u003e Jobs | Glassdoor",
+   "link": "https://www.glassdoor.com/Job/java-programmer-jobs-SRCH_KO0,15.htm",
+   "displayLink": "www.glassdoor.com",
+   "snippet": "Aug 11, 2017 ... Search Java Programmer jobs with company reviews & ratings. 11842 open jobs \nfor Java Programmer. Average Salary: $71216.",
+   "htmlSnippet": "Aug 11, 2017 \u003cb\u003e...\u003c/b\u003e Search \u003cb\u003eJava Programmer\u003c/b\u003e jobs with company reviews &amp; ratings. 11842 open jobs \u003cbr\u003e\nfor \u003cb\u003eJava Programmer\u003c/b\u003e. Average Salary: $71216.",
+   "cacheId": "zUYsjfrUwKgJ",
+   "formattedUrl": "https://www.glassdoor.com/.../java-programmer-jobs-SRCH_KO0,15.htm",
+   "htmlFormattedUrl": "https://www.glassdoor.com/.../\u003cb\u003ejava\u003c/b\u003e-\u003cb\u003eprogrammer\u003c/b\u003e-jobs-SRCH_KO0,15.htm",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Ht1bMp3I8fPFCILvVer9TuAXNZptZsnVR-tji306oP0gFyBwwm1NpnU"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Jobs \u003e",
+      "title": "Jobs"
+     },
+     {
+      "url": "Java Programmer",
+      "title": "Java Programmer"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "theme-color": "#0caa41",
+      "msapplication-navbutton-color": "#0caa41",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "#0caa41",
+      "referrer": "origin",
+      "al:ios:app_store_id": "589698942",
+      "al:ios:app_name": "Glassdoor",
+      "og:title": "Java Programmer Jobs",
+      "og:type": "website",
+      "og:site_name": "Glassdoor",
+      "fb:app_id": "129253937150340",
+      "og:url": "https://www.glassdoor.com/Job/java-programmer-jobs-SRCH_KO0,15.htm",
+      "og:image": "https://static.gd-static.com/static/img/partners/fb/logo-1200x630.png?v=721f9cswl",
+      "og:description": "Search Java Programmer jobs with company reviews & ratings. 11,842 open jobs for Java Programmer. Average Salary: $71,216.",
+      "apple-itunes-app-beta": "app-id=589698942",
+      "google-play-app": "app-id=com.glassdoor.app"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://static.gd-static.com/static/img/partners/fb/logo-1200x630.png?v=721f9cswl"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A Scala Tutorial for Java Programmers | Scala Documentation",
+   "htmlTitle": "A Scala Tutorial for \u003cb\u003eJava Programmers\u003c/b\u003e | Scala Documentation",
+   "link": "https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html",
+   "displayLink": "docs.scala-lang.org",
+   "snippet": "The structure of this program should be familiar to Java programmers: it consists \nof one method called main which takes the command line arguments, an array ...",
+   "htmlSnippet": "The structure of this program should be familiar to \u003cb\u003eJava programmers\u003c/b\u003e: it consists \u003cbr\u003e\nof one method called main which takes the command line arguments, an array&nbsp;...",
+   "cacheId": "aKa31SCqs4MJ",
+   "formattedUrl": "https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html",
+   "htmlFormattedUrl": "https://docs.scala-lang.org/tutorials/scala-for-\u003cb\u003ejava\u003c/b\u003e-\u003cb\u003eprogrammers\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Java Programmer",
+   "htmlTitle": "\u003cb\u003eJava Programmer\u003c/b\u003e",
+   "link": "https://www.monster.com/jobs/q-java-programmer-jobs.aspx",
+   "displayLink": "www.monster.com",
+   "snippet": "Search for Java Programmer jobs at Monster. Browse our collection of Java \nProgrammer job listings, including openings in full time and part time.",
+   "htmlSnippet": "Search for \u003cb\u003eJava Programmer\u003c/b\u003e jobs at Monster. Browse our collection of \u003cb\u003eJava\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eProgrammer\u003c/b\u003e job listings, including openings in full time and part time.",
+   "cacheId": "GLLXa0uZ2vkJ",
+   "formattedUrl": "https://www.monster.com/jobs/q-java-programmer-jobs.aspx",
+   "htmlFormattedUrl": "https://www.monster.com/jobs/q-\u003cb\u003ejava\u003c/b\u003e-\u003cb\u003eprogrammer\u003c/b\u003e-jobs.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1",
+      "sl.domain": "login.monster.com",
+      "sl.channelalias": "MONS",
+      "og:title": "Java Programmer Jobs - Search Java Programmer Job Listings | Monster",
+      "og:type": "website",
+      "og:url": "https://www.monster.com/jobs/q-java-programmer-jobs.aspx",
+      "og:image": "https://securemedia.newjobs.com/id/lpf20/CORE/icon-50-m.png",
+      "og:site_name": "Monster",
+      "og:description": "Search for Java Programmer jobs at Monster. Browse our collection of Java Programmer job listings, including openings in full time and part time.",
+      "m_impr.a_affiliate_id": "LPF",
+      "m_impr.s_search_query": "/medley/jobads/jobadsearch?wt=json&indent=false&defType=jobads&appClient=lpf&rows=20&start=0&monsterapp=LPF&q=Java-Programmer&qf=jobtitle^2+jobbody&fq=countryabbrev_s:US&fq={!scalescore+maxscalehits=10000 func=sum(product(sscore(),0.70),product(field(pscore),0.30))}&sort=score+desc,jobactivedate+desc&facet.field=statenameFacet&facet.field=citystateFacet&facet.field=jobtitleFacet&facet.field=companycode&facet=true&facet.limit=25&facet.mincount=1&fl=*,field(pscore),score",
+      "m_impr.s_q": "Java Programmer",
+      "m_impr.j_pg": "1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://securemedia.newjobs.com/id/lpf20/CORE/icon-50-m.png"
+     }
+    ],
+    "listitem": [
+     {
+      "url": "Jobs",
+      "name": "Jobs"
+     },
+     {
+      "url": "IT",
+      "name": "IT"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oracle Certified Professional, Java SE 6 Programmer | Certification ...",
+   "htmlTitle": "Oracle Certified Professional, \u003cb\u003eJava\u003c/b\u003e SE 6 \u003cb\u003eProgrammer\u003c/b\u003e | Certification ...",
+   "link": "http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=654&get_params=p_id:157",
+   "displayLink": "education.oracle.com",
+   "snippet": "Programmers with advanced Oracle Java SE 6 Professional Certifications under \ntheir belt have an edge in the market. Validate your ability to create ...",
+   "htmlSnippet": "\u003cb\u003eProgrammers\u003c/b\u003e with advanced Oracle \u003cb\u003eJava\u003c/b\u003e SE 6 Professional Certifications under \u003cbr\u003e\ntheir belt have an edge in the market. Validate your ability to create&nbsp;...",
+   "cacheId": "EQ81TSVxoBcJ",
+   "formattedUrl": "education.oracle.com/pls/web_prod.../db_pages.getpage?...",
+   "htmlFormattedUrl": "education.oracle.com/pls/web_prod.../db_pages.getpage?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Oracle Certified Professional, Java SE 6 Programmer | Certification | Oracle",
+      "copyright": "Copyright 2015",
+      "author": "Oracle Corporation",
+      "language": "US",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Java Programming - Android Apps on Google Play",
+   "htmlTitle": "\u003cb\u003eJava Programming\u003c/b\u003e - Android Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=ab.java.programming&hl=en",
+   "displayLink": "play.google.com",
+   "snippet": "#1 Application for java Programming. ------------------------ PLEASE NOTE ------------\n------------ Instead of giving a lower rating, please mail me your queries, issues ...",
+   "htmlSnippet": "#1 Application for \u003cb\u003ejava Programming\u003c/b\u003e. ------------------------ PLEASE NOTE ------------\u003cbr\u003e\n------------ Instead of giving a lower rating, please mail me your queries, issues&nbsp;...",
+   "cacheId": "DqdBisyAdoUJ",
+   "formattedUrl": "https://play.google.com/store/apps/details?id...java.programming...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id...\u003cb\u003ejava\u003c/b\u003e.\u003cb\u003eprogramming\u003c/b\u003e...",
+   "pagemap": {
+    "offer": [
+     {
+      "url": "https://play.google.com/store/apps/details?id=ab.java.programming&rdid=ab.java.programming&feature=md&rdot=1",
+      "price": "0"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgI4YSjjByUfGznAgbD2AaJRMLAQTieh4K9d1XI_diEL9hqoYJnSZprzK0"
+     }
+    ],
+    "mobileapplication": [
+     {
+      "url": "https://play.google.com/store/apps/details?id=ab.java.programming",
+      "image": "https://lh3.googleusercontent.com/HvR-MKlFckEL7KesQ5GtMlyLqIGvcXz8-maI8fWzYryTy8QcTLbnKC0X7AkSF_E8Ew=w300",
+      "name": "Java Programming",
+      "screenshot": "https://lh3.googleusercontent.com/foh681IhSQS55ii83nhcCk0fbhmUpUWue4Hu2MorHQ2JUPYk6PQLBoqIYcZxMXllXQs=h310",
+      "description": "#1 Application for java Programming. ------------------------ PLEASE NOTE ------------------------ Instead of giving a lower rating, please mail me your queries, issues or suggestions. I will...",
+      "datepublished": "July 1, 2016",
+      "numdownloads": "500,000 - 1,000,000",
+      "softwareversion": "2.0.1",
+      "operatingsystems": "2.3.3 and up",
+      "contentrating": "Everyone"
+     }
+    ],
+    "organization": [
+     {
+      "url": "/store/apps/dev?id=7453591930180720827",
+      "name": "Akshay Bhange",
+      "genre": "Education"
+     },
+     {
+      "name": "Android"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.369634628295898",
+      "ratingcount": "6244"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "Java Programming - Android Apps on Google Play",
+      "og:url": "https://play.google.com/store/apps/details?id=ab.java.programming"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lh3.googleusercontent.com/HvR-MKlFckEL7KesQ5GtMlyLqIGvcXz8-maI8fWzYryTy8QcTLbnKC0X7AkSF_E8Ew=w300"
+     }
+    ]
+   }
+  }
+ ]
+}
